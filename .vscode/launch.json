@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Initialize Project",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/initialize_project.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Streamlit App",
+            "type": "python",
+            "request": "launch",
+            "module": "streamlit",
+            "args": ["run", "streamlit_app/main.py"],
+            "console": "integratedTerminal"
+        }
+    ]
+}
