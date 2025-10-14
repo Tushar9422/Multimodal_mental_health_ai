@@ -50,6 +50,9 @@ logs/
 *.jpg
 *.jpeg
 *.png
+notebooks/multimodal_mental_health_data/metadata
+notebooks/multimodal_mental_health_data/raw_audio
+notebooks/multimodal_mental_health_data/processed_audio
 
 # OS
 .DS_Store
