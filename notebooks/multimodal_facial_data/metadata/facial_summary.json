@@ -1,0 +1,24 @@
+{
+  "project": "Multimodal Mental Health AI - Facial Processing",
+  "timestamp": "2025-10-31 20:24:06",
+  "dataset": "FER-2013",
+  "total_files_processed": 1400,
+  "emotions_covered": [
+    "happy",
+    "disgust",
+    "angry",
+    "surprise",
+    "neutral",
+    "fear",
+    "sad"
+  ],
+  "splits_processed": [
+    "train",
+    "test"
+  ],
+  "output_files": {
+    "metadata": "multimodal_facial_data/metadata/fer_facial_metadata.json",
+    "summary_csv": "multimodal_facial_data/metadata/fer_summary.csv",
+    "processed_images_dir": "multimodal_facial_data/processed_facial"
+  }
+}
