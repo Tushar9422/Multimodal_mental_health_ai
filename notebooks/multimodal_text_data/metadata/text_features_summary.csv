@@ -1,0 +1,1001 @@
+file_id,dataset,text,category,text_length,word_count,textblob_polarity,textblob_subjectivity,mh_depression,mh_anxiety,mh_stress,mh_positive,mh_negative,exclamations,questions
+synthetic_very_negative_0000,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0001,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0002,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0003,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0004,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0005,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0006,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0007,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0008,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0009,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0010,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0011,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0012,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0013,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0014,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0015,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0016,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0017,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0018,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0019,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0020,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0021,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0022,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0023,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0024,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0025,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0026,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0027,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0028,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0029,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0030,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0031,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0032,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0033,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0034,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0035,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0036,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0037,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0038,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0039,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0040,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0041,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0042,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0043,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0044,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0045,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0046,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0047,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0048,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0049,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0050,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0051,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0052,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0053,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0054,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0055,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0056,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0057,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0058,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0059,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0060,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0061,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0062,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0063,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0064,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0065,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0066,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0067,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0068,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0069,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0070,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0071,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0072,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0073,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0074,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0075,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0076,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0077,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0078,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0079,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0080,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0081,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0082,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0083,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0084,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0085,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0086,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0087,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0088,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0089,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0090,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0091,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0092,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0093,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0094,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0095,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0096,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0097,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0098,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0099,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0100,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0101,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0102,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0103,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0104,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0105,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0106,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0107,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0108,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0109,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0110,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0111,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0112,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0113,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0114,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0115,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0116,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0117,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0118,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0119,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0120,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0121,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0122,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0123,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0124,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0125,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0126,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0127,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0128,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0129,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0130,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0131,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0132,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0133,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0134,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0135,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0136,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0137,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0138,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0139,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0140,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0141,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0142,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0143,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0144,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0145,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0146,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0147,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0148,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0149,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0150,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0151,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0152,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0153,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0154,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0155,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0156,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0157,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0158,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0159,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0160,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0161,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0162,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0163,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0164,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0165,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0166,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0167,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0168,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0169,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0170,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0171,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0172,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0173,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0174,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0175,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0176,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0177,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0178,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0179,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0180,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0181,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0182,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0183,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0184,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0185,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0186,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0187,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0188,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0189,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0190,Synthetic,Completely overwhelmed and can't cope,very_negative,37,5,0.1,0.4,0,0,1,0,False,0,0
+synthetic_very_negative_0191,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0192,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0193,Synthetic,Feeling worthless and like a burden,very_negative,35,6,-0.8,0.9,1,0,0,0,False,0,0
+synthetic_very_negative_0194,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0195,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0196,Synthetic,Everything seems pointless and meaningless,very_negative,42,5,-0.375,0.75,0,0,0,0,False,0,0
+synthetic_very_negative_0197,Synthetic,I feel so hopeless and don't see any point,very_negative,42,9,0.0,0.0,1,0,0,0,False,0,0
+synthetic_very_negative_0198,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_very_negative_0199,Synthetic,"Life feels empty, I'm lost and alone",very_negative,36,7,-0.1,0.5,1,0,0,0,False,0,0
+synthetic_negative_0000,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0001,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0002,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0003,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0004,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0005,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0006,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0007,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0008,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0009,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0010,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0011,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0012,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0013,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0014,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0015,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0016,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0017,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0018,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0019,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0020,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0021,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0022,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0023,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0024,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0025,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0026,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0027,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0028,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0029,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0030,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0031,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0032,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0033,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0034,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0035,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0036,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0037,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0038,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0039,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0040,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0041,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0042,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0043,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0044,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0045,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0046,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0047,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0048,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0049,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0050,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0051,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0052,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0053,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0054,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0055,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0056,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0057,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0058,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0059,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0060,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0061,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0062,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0063,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0064,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0065,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0066,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0067,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0068,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0069,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0070,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0071,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0072,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0073,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0074,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0075,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0076,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0077,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0078,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0079,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0080,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0081,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0082,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0083,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0084,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0085,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0086,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0087,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0088,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0089,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0090,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0091,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0092,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0093,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0094,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0095,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0096,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0097,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0098,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0099,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0100,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0101,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0102,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0103,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0104,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0105,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0106,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0107,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0108,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0109,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0110,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0111,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0112,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0113,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0114,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0115,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0116,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0117,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0118,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0119,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0120,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0121,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0122,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0123,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0124,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0125,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0126,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0127,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0128,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0129,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0130,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0131,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0132,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0133,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0134,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0135,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0136,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0137,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0138,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0139,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0140,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0141,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0142,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0143,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0144,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0145,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0146,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0147,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0148,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0149,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0150,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0151,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0152,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0153,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0154,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0155,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0156,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0157,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0158,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0159,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0160,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0161,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0162,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0163,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0164,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0165,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0166,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0167,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0168,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0169,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0170,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0171,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0172,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0173,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0174,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0175,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0176,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0177,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0178,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0179,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0180,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0181,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0182,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0183,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0184,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0185,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0186,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0187,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0188,Synthetic,"Things are difficult, I'm struggling",negative,36,5,-0.5,1.0,0,0,0,0,False,0,0
+synthetic_negative_0189,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0190,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0191,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0192,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0193,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0194,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0195,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_negative_0196,Synthetic,Worried and nervous about everything,negative,36,5,0.0,0.0,0,2,0,0,False,0,0
+synthetic_negative_0197,Synthetic,Feeling anxious about challenges ahead,negative,38,5,-0.25,1.0,0,1,0,0,False,0,0
+synthetic_negative_0198,Synthetic,Can't shake this negative feeling,negative,33,5,-0.3,0.4,0,0,0,0,True,0,0
+synthetic_negative_0199,Synthetic,"Having a tough day, feeling stressed",negative,36,6,-0.3888888888888889,0.8333333333333334,0,0,2,0,False,0,0
+synthetic_neutral_0000,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0001,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0002,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0003,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0004,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0005,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0006,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0007,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0008,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0009,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0010,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0011,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0012,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0013,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0014,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0015,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0016,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0017,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0018,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0019,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0020,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0021,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0022,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0023,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0024,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0025,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0026,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0027,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0028,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0029,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0030,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0031,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0032,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0033,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0034,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0035,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0036,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0037,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0038,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0039,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0040,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0041,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0042,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0043,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0044,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0045,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0046,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0047,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0048,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0049,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0050,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0051,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0052,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0053,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0054,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0055,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0056,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0057,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0058,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0059,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0060,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0061,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0062,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0063,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0064,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0065,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0066,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0067,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0068,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0069,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0070,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0071,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0072,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0073,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0074,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0075,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0076,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0077,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0078,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0079,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0080,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0081,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0082,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0083,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0084,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0085,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0086,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0087,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0088,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0089,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0090,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0091,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0092,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0093,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0094,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0095,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0096,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0097,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0098,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0099,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0100,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0101,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0102,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0103,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0104,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0105,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0106,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0107,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0108,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0109,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0110,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0111,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0112,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0113,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0114,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0115,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0116,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0117,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0118,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0119,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0120,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0121,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0122,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0123,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0124,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0125,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0126,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0127,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0128,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0129,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0130,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0131,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0132,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0133,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0134,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0135,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0136,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0137,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0138,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0139,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0140,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0141,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0142,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0143,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0144,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0145,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0146,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0147,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0148,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0149,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0150,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0151,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0152,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0153,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0154,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0155,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0156,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0157,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0158,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0159,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0160,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0161,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0162,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0163,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0164,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0165,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0166,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0167,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0168,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0169,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0170,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0171,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0172,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0173,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0174,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0175,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0176,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0177,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0178,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0179,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0180,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0181,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0182,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0183,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0184,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0185,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0186,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0187,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0188,Synthetic,Another typical day at work,neutral,27,5,-0.16666666666666666,0.5,0,0,0,0,False,0,0
+synthetic_neutral_0189,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0190,Synthetic,Did my usual routine today,neutral,26,5,-0.25,0.25,0,0,0,0,False,0,0
+synthetic_neutral_0191,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0192,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0193,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0194,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0195,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_neutral_0196,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0197,Synthetic,Had meetings and normal activities,neutral,34,5,0.15,0.6499999999999999,0,0,0,0,False,0,0
+synthetic_neutral_0198,Synthetic,"Working on tasks, getting things done",neutral,37,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_neutral_0199,Synthetic,"Just had a regular day, nothing special",neutral,39,7,0.17857142857142858,0.32417582417582413,0,0,0,0,False,0,0
+synthetic_positive_0000,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0001,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0002,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0003,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0004,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0005,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0006,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0007,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0008,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0009,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0010,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0011,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0012,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0013,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0014,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0015,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0016,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0017,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0018,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0019,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0020,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0021,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0022,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0023,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0024,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0025,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0026,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0027,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0028,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0029,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0030,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0031,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0032,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0033,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0034,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0035,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0036,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0037,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0038,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0039,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0040,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0041,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0042,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0043,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0044,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0045,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0046,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0047,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0048,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0049,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0050,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0051,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0052,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0053,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0054,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0055,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0056,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0057,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0058,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0059,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0060,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0061,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0062,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0063,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0064,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0065,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0066,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0067,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0068,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0069,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0070,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0071,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0072,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0073,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0074,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0075,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0076,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0077,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0078,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0079,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0080,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0081,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0082,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0083,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0084,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0085,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0086,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0087,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0088,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0089,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0090,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0091,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0092,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0093,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0094,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0095,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0096,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0097,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0098,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0099,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0100,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0101,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0102,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0103,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0104,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0105,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0106,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0107,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0108,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0109,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0110,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0111,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0112,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0113,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0114,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0115,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0116,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0117,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0118,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0119,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0120,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0121,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0122,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0123,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0124,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0125,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0126,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0127,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0128,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0129,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0130,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0131,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0132,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0133,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0134,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0135,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0136,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0137,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0138,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0139,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0140,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0141,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0142,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0143,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0144,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0145,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0146,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0147,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0148,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0149,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0150,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0151,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0152,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0153,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0154,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0155,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0156,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0157,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0158,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0159,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0160,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0161,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0162,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0163,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0164,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0165,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0166,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0167,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0168,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0169,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0170,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0171,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0172,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0173,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0174,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0175,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0176,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0177,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0178,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0179,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0180,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0181,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0182,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0183,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0184,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0185,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0186,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0187,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0188,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0189,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0190,Synthetic,"Had a good day, accomplished goals",positive,34,6,0.44999999999999996,0.55,0,0,0,0,False,0,0
+synthetic_positive_0191,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0192,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0193,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0194,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0195,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0196,Synthetic,"Things are looking up, I'm hopeful",positive,34,6,0.0,0.0,0,0,0,0,False,0,0
+synthetic_positive_0197,Synthetic,"Made progress, feeling satisfied",positive,32,4,0.5,1.0,0,0,0,0,False,0,0
+synthetic_positive_0198,Synthetic,Enjoyed my hobbies and relaxed,positive,30,5,0.5,0.7,0,0,0,1,False,0,0
+synthetic_positive_0199,Synthetic,Feeling optimistic about opportunities,positive,38,4,0.0,0.0,0,0,0,0,False,0,0
+synthetic_very_positive_0000,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0001,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0002,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0003,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0004,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0005,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0006,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0007,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0008,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0009,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0010,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0011,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0012,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0013,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0014,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0015,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0016,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0017,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0018,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0019,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0020,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0021,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0022,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0023,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0024,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0025,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0026,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0027,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0028,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0029,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0030,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0031,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0032,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0033,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0034,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0035,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0036,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0037,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0038,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0039,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0040,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0041,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0042,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0043,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0044,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0045,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0046,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0047,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0048,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0049,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0050,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0051,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0052,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0053,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0054,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0055,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0056,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0057,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0058,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0059,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0060,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0061,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0062,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0063,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0064,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0065,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0066,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0067,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0068,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0069,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0070,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0071,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0072,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0073,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0074,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0075,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0076,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0077,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0078,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0079,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0080,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0081,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0082,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0083,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0084,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0085,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0086,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0087,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0088,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0089,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0090,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0091,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0092,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0093,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0094,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0095,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0096,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0097,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0098,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0099,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0100,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0101,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0102,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0103,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0104,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0105,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0106,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0107,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0108,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0109,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0110,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0111,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0112,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0113,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0114,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0115,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0116,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0117,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0118,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0119,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0120,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0121,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0122,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0123,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0124,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0125,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0126,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0127,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0128,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0129,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0130,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0131,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0132,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0133,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0134,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0135,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0136,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0137,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0138,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0139,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0140,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0141,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0142,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0143,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0144,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0145,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0146,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0147,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0148,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0149,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0150,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0151,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0152,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0153,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0154,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0155,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0156,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0157,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0158,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0159,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0160,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0161,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0162,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0163,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0164,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0165,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0166,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0167,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0168,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0169,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0170,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0171,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0172,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0173,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0174,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0175,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0176,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0177,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0178,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0179,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0180,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0181,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0182,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0183,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0184,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0185,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0186,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0187,Synthetic,Feeling amazing and grateful!,very_positive,29,4,0.7500000000000001,0.9,0,0,0,1,False,1,0
+synthetic_very_positive_0188,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0189,Synthetic,Incredible day full of joy!,very_positive,27,5,0.75,0.55,0,0,0,1,False,1,0
+synthetic_very_positive_0190,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0191,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0192,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0193,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0194,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0195,Synthetic,So happy and blessed!,very_positive,21,4,1.0,1.0,0,0,0,2,False,1,0
+synthetic_very_positive_0196,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0197,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0
+synthetic_very_positive_0198,Synthetic,Best day ever! On top of the world!,very_positive,35,8,0.8125,0.4,0,0,0,0,False,2,0
+synthetic_very_positive_0199,Synthetic,"Everything is perfect, thrilled!",very_positive,32,4,0.875,0.85,0,0,0,0,False,1,0

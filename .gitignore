@@ -24,6 +24,7 @@ wheels/
 venv/
 env/
 ENV/
+mental_venv/
 
 # Environment Variables
 .env

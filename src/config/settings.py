@@ -21,10 +21,13 @@ class Config:
     
     # Data paths
     AUDIO_DATA_DIR = DATA_DIR / "audio"
-    VIDEO_DATA_DIR = DATA_DIR / "video"
+    IMAGE_DATA_DIR = DATA_DIR / "images"
     TEXT_DATA_DIR = DATA_DIR / "text"
     PHYSIOLOGICAL_DATA_DIR = DATA_DIR / "physiological"
     
+    FACIAL_RAW_DIR = IMAGE_DATA_DIR / "raw"
+    FACIAL_PROCESSED_DIR = IMAGE_DATA_DIR / "processed"
+
     # Model paths
     AUDIO_MODEL_DIR = MODELS_DIR / "audio_emotion"
     FACIAL_MODEL_DIR = MODELS_DIR / "facial_emotion"
