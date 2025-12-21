@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Multimodal Mental Health Emotion Recognition System
 Interactive Web Interface using Streamlit
